@@ -75,8 +75,9 @@ plt.show()
 ```
 
 ## Output:
-
+<img width="762" height="212" alt="Screenshot 2026-03-09 130614" src="https://github.com/user-attachments/assets/a1f824a8-bf52-4171-958d-cc4b1b7670c5" />
 <img width="320" height="106" alt="image" src="https://github.com/user-attachments/assets/a185ab29-9c35-463e-860c-f276b53b0775" />
 <img width="1265" height="612" alt="image" src="https://github.com/user-attachments/assets/a58f13cf-a563-4406-9973-8a1afa586405" />
+
 ## Result:
 Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
